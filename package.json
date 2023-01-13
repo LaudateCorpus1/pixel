@@ -10,7 +10,7 @@
     "pica": "^4.0.2",
     "standard": "^13.0.0",
     "webpack": "^4.1.1",
-    "webpack-cli": "^3.1.2",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.7.2"
   },
   "scripts": {
